@@ -26,7 +26,7 @@ st.image("img/img2.png", width=100)  # 파일 경로 (app.py)
 # 제목 마크다운
 st.write("""
 # 가장 큰 제목 텍스트 (h1 - headline1 -st.title)
-## 그 다음 큰 제목 (h2 - headline2 -st.title)
+# 그 다음 큰 제목 (h2 - headline2 -st.title)
 ### 그것보단 작은 제목 <- 대부분 여기까지만 사용 (h3)
 #### h4
 ##### h5
